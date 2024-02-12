@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 https://raw.githubusercontent.com/justice049/justice049/output/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/justice049/justice049/output/github-contribution-grid-snake-dark.svg
 <!--
 **justice049/justice049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
