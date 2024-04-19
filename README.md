@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 https://raw.githubusercontent.com/justice049/justice049/output/github-contribution-grid-snake.svg
 https://raw.githubusercontent.com/justice049/justice049/output/github-contribution-grid-snake-dark.svg
 <!--
