@@ -7,9 +7,9 @@
 ### I'm Switch
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
+- 🌱 Currently dead in XUPT, China.
 - 💬 Ask me about C++,Linux,and my projects on [3440501841@qq.com](mailto:3440501841@qq.com)
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: hearthstone🍇,cat🍍,steam🥑
 
 ### 关于我
 - [CSDN](https://i.csdn.net/#/user-center/profile?spm=1000.2115.3001.5111)
