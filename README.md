@@ -6,7 +6,7 @@
 
 ### I'm Switch
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A Computer Student. & veterinary
 - 🌱 Currently dead in XUPT, China.
 - 💬 Ask me about C++,Linux,and my projects on [3440501841@qq.com](mailto:3440501841@qq.com)
 - ⚡ Fun fact: hearthstone🍇,cat🍍,steam🥑
