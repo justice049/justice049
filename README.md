@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/justice049/justice049/refs/heads/output/github-contribution-grid-snake.svg)
 ![](https://github.com/justice049/justice049/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 ### I'm Switch
 
